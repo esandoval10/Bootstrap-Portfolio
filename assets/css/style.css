@@ -51,10 +51,10 @@ nav a {
   text-decoration: none;
   background-color: transparent;
   color: #12FFFF;
-  margin-left: 15px;
+  margin-left: 5px;
   display: inline-block;  
   line-height: 18px;
-  padding: 2px;
+  padding: 1px;
 }
 
 /*Social*/
@@ -120,7 +120,7 @@ footer {
 
 .contact{
   padding: 10px;
-  margin: 50px 200px;
+  margin: 50px 25px;
 }
 
 .about, .portfolio{
